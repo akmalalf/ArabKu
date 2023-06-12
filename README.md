@@ -1,7 +1,7 @@
 # ArabKu - Bangkit Final Capstone Project
 
 Bangkit Capstone Team ID : C22 - PS046 <br>
-Here is our repository for Bangkit 2022 Capstone project. Our team consist of 2 Machine Learning, 2 Mobile Development, and 2 Cloud Computing.
+Here is our repository for Bangkit 2023 Capstone project. Our team consist of 2 Machine Learning, 2 Mobile Development, and 2 Cloud Computing.
 
 ## Team Members
 |              Name                  | Bangkit-ID  |   Learning Path     |
