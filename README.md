@@ -6,9 +6,9 @@ Here is our repository for Bangkit 2023 Capstone project. Our team consist of 2 
 ## Team Members
 |              Name                  | Bangkit-ID  |   Learning Path     | LinkedIn |
 | :--------------------------------: | :---------: | :-----------------: | :---: |
-| Fakhrizal Vabiano Fadhil Wicaksono | M166DKX3888 |   Machine Learning  | <a href="MASUKKAN LINK LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
-|      Yahya Bernanda Fahrurozi      | M166DKX4049 |   Machine Learning  | <a href="MASUKKAN LINK LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
-|         Iqbal Putra Ramadhan       | A122DKX4590 |  Mobile Development | <a href="MASUKKAN LINK LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
+| Fakhrizal Vabiano Fadhil Wicaksono | M166DKX3888 |   Machine Learning  | <a href="https://www.linkedin.com/in/fakhrizalvabiano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
+|      Yahya Bernanda Fahrurozi      | M166DKX4049 |   Machine Learning  | <a href="https://www.linkedin.com/in/yahya-bernanda-fahrurozi-442997271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
+|         Iqbal Putra Ramadhan       | A122DKX4590 |  Mobile Development | <a href="https://www.linkedin.com/in/iqbal-putra-ramadhan-b14798179/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
 |          Fawzan Ibnu Fajar         | A199DKX4586 |  Mobile Development | <a href="MASUKKAN LINK LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
 |       Alif Taqiyyuddin Akmal       | C172DSX2227 |    Cloud Computing  | <a href="https://www.linkedin.com/in/alif-taqiyyuddin-akmal-2549ba135/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
 |         Sinta Puspito Rini         | C172DSY2684 |    Cloud Computing  | <a href="https://www.linkedin.com/in/sintapuspitorini/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> |
