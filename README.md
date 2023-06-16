@@ -5,24 +5,23 @@ Bangkit Capstone Team ID : C23-PS278 <br>
 Here is our repository for Bangkit 2022 Capstone project - Cloud Computing
 
 ### Cloud Architecture 
-
+![Cloud Architecture](https://github.com/akmalalf/ArabKu/blob/cloud/Asset/Screenshot%202023-06-16%20113731.png)<br>
 ### API Description
 This is the source code for the ArabKu team's API. This API is built using Node.js and the Express framework. We utilize Axios for fetching data from third-party APIs. The API is deployed on App Engine.<br>
 ### API URL
 [ArabKu API URL](https://backend2-dot-arabku.et.r.appspot.com/)<br>
-[API Fatimah Bot URL](https://api.myquran.com/v1/sholat)
+[API Fatimah Bot URL](https://api.banghasan.com/)
 |  Endpoint |  Method	     |      Query Params |           Description          |
 | :----: | :------------: | :-----------------: | :------------------------: |
-| /sholat/kota/cari/{keyword} | GET   | City Name      | HTTP GET REQUEST City Code based on City Name  |
-| /sholat/kota/semua | GET | | HTTP GET REQUEST All City Name and City Code |
-| | | | |
-| | | | |
+| /sholat/format/json/kota/nama/{keyword} | GET   | City Name      | HTTP GET REQUEST City Code based on City Name  |
+| /sholat/format/json/kota | GET | | HTTP GET REQUEST All City Name and City Code |
+| /sholat/format/json/jadwal/kota/{Keyword}/tanggal/{Keyword} | GET | City Code, Date| HTTP GET REQUEST Prayer Time based on Citi Code and Date |
 
 
 #### ArabKu Endpoint Documentation
 [ArabKu Endpoint Documentation](https://documenter.getpostman.com/view/27960839/2s93sgXWUc)
 #### myQuran.com API
-[myQuran.com API Documentation](https://documenter.getpostman.com/view/841292/Tz5p7yHS#ae4b237c-e97c-4353-9e94-67d155af06f8)
+[myQuran.com API Documentation](https://fathimah.docs.apiary.io/#reference/sholat)
 
 ### How to use the endpoint
 * To use this endpoint that our team provided
