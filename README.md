@@ -20,8 +20,8 @@ This is the source code for the ArabKu team's API. This API is built using Node.
 
 #### ArabKu Endpoint Documentation
 [ArabKu Endpoint Documentation](https://documenter.getpostman.com/view/27960839/2s93sgXWUc)
-#### myQuran.com API
-[myQuran.com API Documentation](https://fathimah.docs.apiary.io/#reference/sholat)
+#### API Fatimah Bot Documentation
+[API Fatimah Bot Documentation](https://fathimah.docs.apiary.io/#reference/sholat)
 
 ### How to use the endpoint
 * To use this endpoint that our team provided
